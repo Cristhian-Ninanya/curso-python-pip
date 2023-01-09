@@ -1,0 +1,1 @@
+print('Ejecutando Python desde VSCode en WSL')
