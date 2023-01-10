@@ -13,7 +13,7 @@ def generate_pie_chart(labels,values):
     ax.pie(values,labels=labels)
     ax.set_title('Poblacion Mundial')
     ax.axis('equal')
-    plt.savefig('./imgs/pie.png')
+    plt.savefig('./imgs/chart_pie_final.png')
     plt.close()
 
 if __name__ == '__main__':
